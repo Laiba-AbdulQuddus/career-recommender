@@ -1,0 +1,53 @@
+Name,Skills,Degree,GPA,Interest,Recommended_Career
+Alice,Python;ML;Data Analysis,BSCS,3.8,AI,Data Scientist
+Bob,HTML;CSS;Creativity,BFA,3.2,Design,UI/UX Designer
+Charlie,Java;OOP;Problem Solving,BSCS,3.6,Software,Software Engineer
+Diana,Communication;Leadership;Strategy,BBA,3.5,Business,Business Analyst
+Ethan,Python;Statistics;R,BS Stats,3.7,Data,Data Analyst
+Fatima,ML;Python;TensorFlow,BSCS,3.9,AI,ML Engineer
+George,Photoshop;Illustrator;Creativity,BFA,3.3,Design,Graphic Designer
+Hina,Excel;Finance;Accounting,BBA,3.4,Finance,Financial Analyst
+Imran,Networking;Security;Linux,BSIT,3.5,IT,Cybersecurity Analyst
+Jenna,Writing;Communication;Creativity,BA English,3.6,Content,Content Writer
+Kashif,Python;Pandas;SQL,BSCS,3.7,Data,Data Analyst
+Lara,HTML;CSS;JavaScript,BSCS,3.5,Web Dev,Frontend Developer
+Mubashir,Leadership;Negotiation;Sales,BBA,3.3,Marketing,Sales Manager
+Nida,Java;Spring Boot;SQL,BSCS,3.8,Software,Backend Developer
+Omar,Networking;Cloud;Linux,BSIT,3.6,IT,Network Engineer
+Priya,R;Data Viz;Statistics,BS Stats,3.9,Data,Data Scientist
+Qasim,Photoshop;InDesign;Creativity,BFA,3.1,Design,Visual Designer
+Rabia,Python;NLP;Deep Learning,BSCS,3.8,AI,NLP Engineer
+Saad,Excel;Finance;Risk Analysis,BBA,3.6,Finance,Risk Analyst
+Tania,Creativity;Writing;Marketing,BA Comm,3.4,Marketing,Content Marketer
+Usman,Python;Django;OOP,BSCS,3.7,Web Dev,Full Stack Developer
+Vania,Excel;Data Entry;Accuracy,BCom,3.2,Admin,Data Entry Clerk
+Waleed,Python;Statistics;Data Cleaning,BSCS,3.6,Data,Data Analyst
+Xena,Leadership;Strategic Thinking;Finance,MBA,3.8,Business,Management Consultant
+Yasir,Security;Ethical Hacking;Networking,BSIT,3.9,Cyber,Cybersecurity Analyst
+Zoya,UX;UI;Figma,BFA,3.5,Design,UI Designer
+Ali,Python;TensorFlow;Keras,BSCS,3.9,AI,Deep Learning Engineer
+Bilal,Communication;Presentation;Sales,BBA,3.2,Business,Sales Executive
+Catherine,SQL;Power BI;Excel,BBA,3.5,Finance,Business Analyst
+Danish,JavaScript;Node.js;MongoDB,BSCS,3.6,Web Dev,Backend Developer
+Emaan,Writing;SEO;Social Media,BA English,3.7,Content,Digital Content Creator
+Faraz,Python;ML;Data Wrangling,BSCS,3.8,AI,Data Scientist
+Gul,Photoshop;Illustrator;UI,BFA,3.3,Design,Visual UX Designer
+Hamza,Java;Algorithms;OOP,BSCS,3.5,Software,Java Developer
+Iqra,Excel;Pivot Tables;Finance,BBA,3.4,Finance,Accountant
+Jawad,React;HTML;CSS,BSCS,3.7,Web Dev,Frontend Developer
+Kiran,ML;Python;Scikit-learn,BSCS,3.9,AI,ML Engineer
+Laiba,Data Cleaning;Excel;SQL,BCom,3.3,Data,Data Analyst
+Moiz,Networking;Windows Server;Linux,BSIT,3.4,IT,System Admin
+Nashit,Strategic Thinking;Finance;Investment,MBA,3.8,Finance,Investment Analyst
+Owais,Python;APIs;Flask,BSCS,3.6,Web Dev,Backend Developer
+Pari,Creativity;UX;Storytelling,BFA,3.5,Design,UX Researcher
+Qandeel,Python;Jupyter;Data Viz,BS Stats,3.8,Data,Data Scientist
+Rehan,Security;Firewall;Pen Testing,BSIT,3.7,Cyber,Security Analyst
+Sana,Writing;Editing;Creativity,BA English,3.6,Content,Copywriter
+Talha,Power BI;Excel;SQL,BBA,3.5,Business,Data Analyst
+Umair,Java;Spring;REST API,BSCS,3.6,Software,Java Developer
+Veena,Communication;Sales;CRM,BBA,3.3,Marketing,Sales Manager
+Wasif,Python;Streamlit;Pandas,BSCS,3.7,AI,ML Engineer
+Xahid,Excel;Financial Modeling;Accounting,BCom,3.5,Finance,Financial Analyst
+Yumna,HTML;Figma;UX,BFA,3.4,Design,UI Designer
+Zubair,Python;ML;APIs,BSCS,3.9,AI,ML Engineer
