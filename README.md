@@ -5,6 +5,9 @@ An intelligent machine learning app that recommends ideal tech careers based on 
 
 ---
 
+##🚀 **Live Demo:** [Check out the app](https://career-recommender-system.streamlit.app/)
+---
+
 ## 🚀 Features
 - Input: User skills, degree, GPA, and interest
 - Output: Career recommendation (e.g., Data Scientist, UI/UX Designer)
