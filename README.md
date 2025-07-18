@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎯 Career Recommender System
 
 An intelligent machine learning app that recommends ideal tech careers based on a user's skills, degree, GPA, and interest area. Built using Python, Scikit-learn, Pandas, and deployed via Streamlit for an interactive user experience.
