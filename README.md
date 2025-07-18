@@ -66,11 +66,6 @@ A custom dataset containing 100+ hypothetical user profiles with:
 
 ---
 
-## 📸 Screenshots
-> Add 1–2 screenshots of your Streamlit UI here for visual appeal.
-
----
-
 ## 👤 Author
 **Laiba Abdul Quddus** — Computer Science Student  
 [LinkedIn](https://www.linkedin.com/in/laiba-abdul-quddus/) | [GitHub](https://github.com/Laiba-AbdulQuddus)
